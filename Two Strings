@@ -1,0 +1,37 @@
+import java.util.*;
+
+public class Solution {
+
+    static String twoStrings(String s1, String s2) {
+        Set<Character> set = new HashSet<>();
+        
+        // Add all characters of s1 to the set
+        for (char c : s1.toCharArray()) {
+            set.add(c);
+        }
+        
+        // Check if any character of s2 exists in the set
+        for (char c : s2.toCharArray()) {
+            if (set.contains(c)) {
+                return "YES";
+            }
+        }
+        
+        return "NO";
+    }
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        int t = scanner.nextInt();
+        scanner.nextLine(); // consume newline
+        
+        while (t-- > 0) {
+            String s1 = scanner.nextLine();
+            String s2 = scanner.nextLine();
+            
+            System.out.println(twoStrings(s1, s2));
+        }
+        
+        scanner.close();
+    }
+}
