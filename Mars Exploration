@@ -1,0 +1,33 @@
+import java.util.*;
+
+public class Solution {
+
+    static int marsExploration(String s) {
+        int changes = 0;
+        
+        for (int i = 0; i < s.length(); i++) {
+            char expected;
+            
+            if (i % 3 == 0 || i % 3 == 2) {
+                expected = 'S';
+            } else {
+                expected = 'O';
+            }
+            
+            if (s.charAt(i) != expected) {
+                changes++;
+            }
+        }
+        
+        return changes;
+    }
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        String s = scanner.nextLine();
+        
+        System.out.println(marsExploration(s));
+        
+        scanner.close();
+    }
+}
