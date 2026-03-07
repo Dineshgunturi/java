@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dineshgunturi/java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Dineshgunturi/java/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Dineshgunturi/java/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Dineshgunturi/java/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## String Matching
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dineshgunturi/java/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Dineshgunturi/java/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dineshgunturi/java/tree/master/0005-longest-palindromic-substring) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Dineshgunturi/java/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Recursion
 |  |
 | ------- |
