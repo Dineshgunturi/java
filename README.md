@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dineshgunturi/java/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0705-design-hashset](https://github.com/Dineshgunturi/java/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/Dineshgunturi/java/tree/master/1396-design-underground-system) |
 ## Sliding Window
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/Dineshgunturi/java/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/Dineshgunturi/java/tree/master/1472-design-browser-history) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Dineshgunturi/java/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Dineshgunturi/java/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/Dineshgunturi/java/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/Dineshgunturi/java/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/Dineshgunturi/java/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/Dineshgunturi/java/tree/master/1603-design-parking-system) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/Dineshgunturi/java/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/Dineshgunturi/java/tree/master/1472-design-browser-history) |
 ## Stack
 |  |
@@ -148,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Dineshgunturi/java/tree/master/1472-design-browser-history) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Dineshgunturi/java/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
