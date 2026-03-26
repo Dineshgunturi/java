@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dineshgunturi/java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1603-design-parking-system](https://github.com/Dineshgunturi/java/tree/master/1603-design-parking-system) |
 ## Array
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/Dineshgunturi/java/tree/master/1603-design-parking-system) |
 | [1622-fancy-sequence](https://github.com/Dineshgunturi/java/tree/master/1622-fancy-sequence) |
 ## Segment Tree
 |  |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Dineshgunturi/java/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Dineshgunturi/java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Dineshgunturi/java/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
