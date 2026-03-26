@@ -1,0 +1,27 @@
+class Singleton {
+    private static Singleton instance;
+    public String str;
+
+    private Singleton() {
+        // private constructor
+    }
+
+    static Singleton getSingleInstance() {
+        if (instance == null) {
+            instance = new Singleton();
+        }
+        return instance;
+    }
+}
+
+public class Solution {
+    public static void main(String[] args) {
+        java.util.Scanner sc = new java.util.Scanner(System.in);
+        String s = sc.nextLine();
+        
+        Singleton obj = Singleton.getSingleInstance();
+        obj.str = s;
+        
+        System.out.println("Hello I am a singleton! Let me say " + obj.str + " to you");
+    }
+}
