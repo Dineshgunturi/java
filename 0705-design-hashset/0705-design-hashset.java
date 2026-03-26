@@ -1,0 +1,34 @@
+import java.util.*;
+
+class MyHashSet {
+    private int size = 1000;
+    private LinkedList<Integer>[] buckets;
+
+    public MyHashSet() {
+        buckets = new LinkedList[size];
+    }
+
+    private int hash(int key) {
+        return key % size;
+    }
+
+    public void add(int key) {
+        int i = hash(key);
+        if (buckets[i] == null)
+            buckets[i] = new LinkedList<>();
+        
+        if (!buckets[i].contains(key))
+            buckets[i].add(key);
+    }
+
+    public void remove(int key) {
+        int i = hash(key);
+        if (buckets[i] != null)
+            buckets[i].remove((Integer) key);
+    }
+
+    public boolean contains(int key) {
+        int i = hash(key);
+        return buckets[i] != null && buckets[i].contains(key);
+    }
+}
