@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dineshgunturi/java/tree/master/0088-merge-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dineshgunturi/java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0705-design-hashset](https://github.com/Dineshgunturi/java/tree/master/0705-design-hashset) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Dineshgunturi/java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1472-design-browser-history](https://github.com/Dineshgunturi/java/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/Dineshgunturi/java/tree/master/1480-running-sum-of-1d-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Dineshgunturi/java/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Dineshgunturi/java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Dineshgunturi/java/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dineshgunturi/java/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Greedy
