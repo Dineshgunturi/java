@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dineshgunturi/java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dineshgunturi/java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0796-rotate-string](https://github.com/Dineshgunturi/java/tree/master/0796-rotate-string) |
+| [1002-find-common-characters](https://github.com/Dineshgunturi/java/tree/master/1002-find-common-characters) |
 | [1396-design-underground-system](https://github.com/Dineshgunturi/java/tree/master/1396-design-underground-system) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Dineshgunturi/java/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dineshgunturi/java/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dineshgunturi/java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dineshgunturi/java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0705-design-hashset](https://github.com/Dineshgunturi/java/tree/master/0705-design-hashset) |
+| [1002-find-common-characters](https://github.com/Dineshgunturi/java/tree/master/1002-find-common-characters) |
 | [1396-design-underground-system](https://github.com/Dineshgunturi/java/tree/master/1396-design-underground-system) |
 ## Sliding Window
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dineshgunturi/java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0705-design-hashset](https://github.com/Dineshgunturi/java/tree/master/0705-design-hashset) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dineshgunturi/java/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1002-find-common-characters](https://github.com/Dineshgunturi/java/tree/master/1002-find-common-characters) |
 | [1472-design-browser-history](https://github.com/Dineshgunturi/java/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/Dineshgunturi/java/tree/master/1480-running-sum-of-1d-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Dineshgunturi/java/tree/master/1582-special-positions-in-a-binary-matrix) |
