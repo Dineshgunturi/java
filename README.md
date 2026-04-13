@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dineshgunturi/java/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/Dineshgunturi/java/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dineshgunturi/java/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Dineshgunturi/java/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Dineshgunturi/java/tree/master/0796-rotate-string) |
 | [1002-find-common-characters](https://github.com/Dineshgunturi/java/tree/master/1002-find-common-characters) |
 | [1396-design-underground-system](https://github.com/Dineshgunturi/java/tree/master/1396-design-underground-system) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Dineshgunturi/java/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dineshgunturi/java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dineshgunturi/java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Dineshgunturi/java/tree/master/0451-sort-characters-by-frequency) |
 | [0705-design-hashset](https://github.com/Dineshgunturi/java/tree/master/0705-design-hashset) |
 | [1002-find-common-characters](https://github.com/Dineshgunturi/java/tree/master/1002-find-common-characters) |
 | [1396-design-underground-system](https://github.com/Dineshgunturi/java/tree/master/1396-design-underground-system) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Dineshgunturi/java/tree/master/0451-sort-characters-by-frequency) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Dineshgunturi/java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Dineshgunturi/java/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Backtracking
@@ -159,11 +162,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Dineshgunturi/java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dineshgunturi/java/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Dineshgunturi/java/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/Dineshgunturi/java/tree/master/0451-sort-characters-by-frequency) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Dineshgunturi/java/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Dineshgunturi/java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Dineshgunturi/java/tree/master/0451-sort-characters-by-frequency) |
 | [1603-design-parking-system](https://github.com/Dineshgunturi/java/tree/master/1603-design-parking-system) |
 ## Linked List
 |  |
@@ -195,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Dineshgunturi/java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Dineshgunturi/java/tree/master/0232-implement-queue-using-stacks) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Dineshgunturi/java/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
