@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/Dineshgunturi/java/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/Dineshgunturi/java/tree/master/1472-design-browser-history) |
+| [1480-running-sum-of-1d-array](https://github.com/Dineshgunturi/java/tree/master/1480-running-sum-of-1d-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Dineshgunturi/java/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Dineshgunturi/java/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Dineshgunturi/java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Dineshgunturi/java/tree/master/1480-running-sum-of-1d-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Dineshgunturi/java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Dineshgunturi/java/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Dineshgunturi/java/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
