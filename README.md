@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Dineshgunturi/java/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dineshgunturi/java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Dineshgunturi/java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Dineshgunturi/java/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Dineshgunturi/java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Dineshgunturi/java/tree/master/0088-merge-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dineshgunturi/java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0705-design-hashset](https://github.com/Dineshgunturi/java/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/Dineshgunturi/java/tree/master/1472-design-browser-history) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Dineshgunturi/java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Dineshgunturi/java/tree/master/0088-merge-sorted-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Dineshgunturi/java/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Dineshgunturi/java/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Counting
