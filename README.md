@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dineshgunturi/java/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Dineshgunturi/java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dineshgunturi/java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dineshgunturi/java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0796-rotate-string](https://github.com/Dineshgunturi/java/tree/master/0796-rotate-string) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Dineshgunturi/java/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Dineshgunturi/java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Dineshgunturi/java/tree/master/0232-implement-queue-using-stacks) |
 | [1472-design-browser-history](https://github.com/Dineshgunturi/java/tree/master/1472-design-browser-history) |
